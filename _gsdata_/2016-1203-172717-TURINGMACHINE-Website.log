@@ -1,9 +1,0 @@
-2016-12-03 17:27:18: -- Analysis Started by User
-2016-12-03 17:30:39: Changes: 1, Conflicts: 0, CopyTime: 0, CopyState: 0/0, Errors: 0, All: 13080
-2016-12-03 17:30:39: Left to Right: Copy File: 1 
-2016-12-03 17:30:39: -- Analysis Complete. Time 00:03:22, Speed: 594 files/s
-2016-12-03 17:30:39: 
-2016-12-03 17:32:53: == Sync Started by User
-2016-12-03 17:32:54: Copy New 'U:/LiveWeb/UXPortfolio/noosphere/LocalSettings.php' -> 'ftp://ftp.jack-a-lope.net/jack-a-lope.net/noosphere/LocalSettings.php'
-2016-12-03 17:32:56: == Sync Complete. Time: 00:00:04, Speed: 57.5 KB/s, OK: 1, Errors: 0
-2016-12-03 17:32:56: 
